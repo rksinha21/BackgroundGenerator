@@ -1,0 +1,553 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pri",
+				"println"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fa",
+				"farmerUser"
+			],
+			[
+				"far",
+				"farmerPwd"
+			],
+			[
+				"farmer",
+				"farmerPwd"
+			],
+			[
+				"farm",
+				"farmerUser"
+			],
+			[
+				"cu",
+				"currentBid"
+			],
+			[
+				"sta",
+				"startingBid"
+			],
+			[
+				"pro",
+				"productName"
+			],
+			[
+				"Connec",
+				"connected"
+			],
+			[
+				"body",
+				"body-parser"
+			],
+			[
+				"bod",
+				"body-parser"
+			],
+			[
+				"ex",
+				"express"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"stroke",
+				"stroke-linecap\tproperty"
+			],
+			[
+				"in",
+				"initial\tjustify-content"
+			],
+			[
+				"gri",
+				"grid-gap\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"con",
+				"align-content\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"grid-col",
+				"grid-column-end\tproperty"
+			],
+			[
+				"grid",
+				"grid-gap\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"bk",
+				"black"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"border-ri",
+				"border-right-width\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"border-t",
+				"border-top-width\tproperty"
+			],
+			[
+				"border-l",
+				"border-left-width\tproperty"
+			],
+			[
+				"border-",
+				"border-width\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"ma",
+				"max-width\tproperty"
+			],
+			[
+				"s",
+				"flex-start\talign-self"
+			],
+			[
+				"f",
+				"flex-start\talign-items"
+			],
+			[
+				"row",
+				"row-reverse\tflex-direction"
+			],
+			[
+				"a",
+				"auto\tbackground-size"
+			],
+			[
+				"ba",
+				"background-position\tproperty"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"Post",
+				"PostModelAdmin"
+			],
+			[
+				"au",
+				"auto_now_add"
+			],
+			[
+				"rg",
+				"rgba()\tbox-shadow"
+			],
+			[
+				"backgrou",
+				"background\tproperty"
+			],
+			[
+				"g",
+				"rgba()\tbackground-color"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/rakshat/Desktop/Java Project/knapsackmain.java",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/package.json",
+		"/home/rakshat/home/package.json",
+		"/home/rakshat/package-lock.json",
+		"/home/rakshat/Local Disk D/The Complete Web Developer in 2019 Zero to Mastery/13. Advanced Javascript/6.1 exercise3.js.js",
+		"/home/rakshat/Local Disk D/The Complete Web Developer in 2019 Zero to Mastery/13. Advanced Javascript/6.2 exercise3-SOLUTIONS.js.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/login.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/farmerLoginroute.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/login.html",
+		"/home/rakshat/Desktop/JavaScript Demo/script.js",
+		"/home/rakshat/Desktop/simple.tcl",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/farmerCurrentBidSchema.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/farmerCurrentBidroute.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/farmerPreviousBidSchema.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/farmerPreviousBidroute.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/app.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/customerCurrentBidSchema.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/customerCurrentBidroute.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/farmerLoginSchema.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/customerProductSchema.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/customerProductroute.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/customerproduct.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/farmerProfile.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/farmerproduct.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/home.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/customerproduct.html",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/farmerproduct.html",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/farmerProfile.html",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/home.html",
+		"/home/rakshat/Downloads/customerProfile.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/customerSignup.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/farmerSignup.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/Msg.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/cinfig.json",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/farmerSignup.css",
+		"/home/rakshat/Documents/Feedback/feedback.css",
+		"/home/rakshat/Documents/Feedback/feedback.html",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/test.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/farmerProductSchema.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/farmerProductroute.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/signup.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/farmerprofile.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/customerproduct.css",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/untitled.js",
+		"/home/rakshat/nodeproject/package.json",
+		"/home/rakshat/Desktop/pythonShell Test/package.json",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/socket.io.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/home.html",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/customerPreviousBidSchema.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/customerPreviousBidroute.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/customerLoginSchema.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/customerLoginroute.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/backend/node_modules/mongoose/lib/index.js",
+		"/home/rakshat/nodeproject/nodetest1/FarmerCustomerBidding/backend/app.js",
+		"/home/rakshat/nodeproject/nodetest1/FarmerCustomerBidding/backend/farmerLoginroute.js",
+		"/home/rakshat/nodeproject/nodetest1/FarmerCustomerBidding/backend/customerCurrentBidSchema.js",
+		"/home/rakshat/nodeproject/nodetest1/FarmerCustomerBidding/backend/farmerLoginSchema.js",
+		"/home/rakshat/nodeproject/nodetest1/FarmerCustomerBidding/backend/customerCurrentBidroute.js",
+		"/home/rakshat/nodeproject/nodetest1/FarmerCustomerBidding/backend/backend/app.js",
+		"/home/rakshat/nodeproject/nodetest1/FarmerCustomerBidding/backend/backend/routes/index.js",
+		"/home/rakshat/nodeproject/nodetest1/FarmerCustomerBidding/backend/backend/routes/users.js",
+		"/home/rakshat/nodeproject/FarmerCustomerBidding/backend/package.json",
+		"/home/rakshat/nodeproject/FarmerCustomerBidding/backend/backend/app.js",
+		"/home/rakshat/nodeproject/nodetest1/package.json",
+		"/home/rakshat/nodeproject/node_modules/sift/tsconfig.json",
+		"/home/rakshat/home/node_modules/uri-js/tsconfig.json",
+		"/home/rakshat/home/node_modules/big-integer/tsconfig.json",
+		"/home/rakshat/node_modules/sift/tsconfig.json",
+		"/home/rakshat/nodeproject/node_modules/typescript/package.json",
+		"/home/rakshat/nodeproject/test/app.js",
+		"/home/rakshat/package.json",
+		"/home/rakshat/server.js",
+		"/home/rakshat/gruntfile.js",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/farmerproduct.css",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/signup.html",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/signup.css",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/login.css",
+		"/home/rakshat/Desktop/FarmerCustomerBidding/home.css",
+		"/home/rakshat/Documents/send/home.css",
+		"/home/rakshat/Documents/send/home.js",
+		"/home/rakshat/Documents/send/home.html",
+		"/home/rakshat/Documents/send/customerproduct.js",
+		"/home/rakshat/Documents/send/customerproduct.css",
+		"/home/rakshat/Documents/send/customerproduct.html",
+		"/home/rakshat/Documents/send/backend/app.js",
+		"/home/rakshat/Documents/send/backend/farmerProductroute.js",
+		"/home/rakshat/Documents/send/backend/farmerProductSchema.js",
+		"/home/rakshat/Documents/send/backend/farmerPreviousBidroute.js",
+		"/home/rakshat/Documents/send/backend/farmerLoginroute.js",
+		"/home/rakshat/Documents/send/backend/farmerPreviousBidSchema.js",
+		"/home/rakshat/Documents/send/backend/farmerLoginSchema.js",
+		"/home/rakshat/Documents/send/backend/farmerCurrentBidSchema.js",
+		"/home/rakshat/Documents/send/backend/farmerCurrentBidroute.js",
+		"/home/rakshat/Documents/send/backend/customerPreviousBidSchema.js",
+		"/home/rakshat/Documents/send/backend/customerPreviousBidroute.js",
+		"/home/rakshat/Documents/send/backend/customerLoginSchema.js",
+		"/home/rakshat/Documents/send/backend/customerLoginroute.js",
+		"/home/rakshat/Documents/send/backend/customerCurrentBidSchema.js",
+		"/home/rakshat/Documents/send/backend/customerCurrentBidroute.js",
+		"/home/rakshat/Documents/Farmer Product/product.html",
+		"/home/rakshat/Documents/Farmer Product/design.css",
+		"/home/rakshat/Documents/User Registration Form/User-Sign Up.html",
+		"/home/rakshat/Documents/User Registration Form/style.css",
+		"/home/rakshat/trydjango19/trydjango19/posts/models.py",
+		"/home/rakshat/trydjango19/trydjango19/posts/admin.py",
+		"/home/rakshat/trydjango19/trydjango19/posts/views.py",
+		"/home/rakshat/trydjango19/trydjango19/trydjango19/urls.py",
+		"/home/rakshat/trydjango19/trydjango19/posts/urls.py",
+		"/home/rakshat/trydjango19/trydjango19/templates/index.html",
+		"/home/rakshat/trydjango19/trydjango19/trydjango19/settings.py",
+		"/home/rakshat/Local Disk D/StartUp Landing Page/index.html",
+		"/home/rakshat/Local Disk D/StartUp Landing Page/style.css",
+		"/home/rakshat/Desktop/Layout/index.html",
+		"/home/rakshat/Desktop/Layout/style.css",
+		"/home/rakshat/trydjango19/src/templates/index.html",
+		"/home/rakshat/trydjango19/trydjango19/manage.py",
+		"/home/rakshat/trydjango19/src/trydjango19/settings.py",
+		"/home/rakshat/trydjango19/trydjango19/posts/migrations/__init__.py",
+		"/home/rakshat/trydjango19/trydjango19/posts/__init__.py",
+		"/home/rakshat/trydjango19/trydjango19/posts/apps.py",
+		"/home/rakshat/Desktop/result/VTU Result.html",
+		"/home/rakshat/Desktop/JavaScript Demo/index.html",
+		"/home/rakshat/Desktop/Java Project/Prime.java",
+		"/home/rakshat/Documents/project-layout/index.html",
+		"/home/rakshat/Documents/project-layout/style.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
